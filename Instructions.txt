@@ -1,0 +1,4 @@
+Using the base text file that is above, you need to edit that code with the button and icon info file. 
+
+Making multipule boxes will take the code to be duplicated. 
+Don't worry the code above that you have will not be messed with unless you change it. 
