@@ -1,0 +1,16 @@
+Button Info : (Replaces the Button in the text file)
+
+O = Ok                        (Used in test)
+1 = Ok and Cancel 
+2 = Abort, Retry and Ignore
+3 = Yes, No and Cancel
+4 = Yes and No 
+5 = Retry and Cancel 
+
+Icon Info : (Replaces the Icon in the text file)
+
+0 - No Icon
+16 - Critical Icon (a.k.a. "X" icon)
+32 - Question Icon (a.k.a. "?" icon)
+48 - Warning Icon (a.k.a. "!" icon)
+64 - Info Icon (a.k.a. "i" icon)                     (Used in test)
